@@ -1,0 +1,5 @@
+"the food at radison was very bad"
+
+[Sentiment(polarity=-0.9099999999999998, subjectivity=0.8666666666666667)]
+"the food at new york was awesome"
+[Sentiment(polarity=0.5681818181818181, subjectivity=0.7272727272727273)]
